@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 94e162f93e492420daf83b68e94c4f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4089715805509926733
+    second: idle_watch(64,64)_0
+  - first:
+      213: 3064607950782973619
+    second: idle_watch(64,64)_1
+  - first:
+      213: 254883980826601760
+    second: idle_watch(64,64)_2
+  - first:
+      213: -7278958271588373931
+    second: idle_watch(64,64)_3
+  - first:
+      213: 4793733716478947746
+    second: idle_watch(64,64)_4
+  - first:
+      213: -1900063758127694896
+    second: idle_watch(64,64)_5
+  - first:
+      213: 5272069624451530875
+    second: idle_watch(64,64)_6
+  - first:
+      213: -9102782867443802895
+    second: idle_watch(64,64)_7
+  - first:
+      213: 4102292824406881128
+    second: idle_watch(64,64)_8
+  - first:
+      213: 3460474771809265093
+    second: idle_watch(64,64)_9
+  - first:
+      213: -8543487277430630562
+    second: idle_watch(64,64)_10
+  - first:
+      213: 8033129238033990199
+    second: idle_watch(64,64)_11
+  - first:
+      213: 5471569156561370583
+    second: idle_watch(64,64)_12
+  - first:
+      213: 1596938712670585235
+    second: idle_watch(64,64)_13
+  - first:
+      213: -436417137121935831
+    second: idle_watch(64,64)_14
+  - first:
+      213: 5543386863675169916
+    second: idle_watch(64,64)_15
+  - first:
+      213: 3640277523528734857
+    second: idle_watch(64,64)_16
+  - first:
+      213: 4167062396731682215
+    second: idle_watch(64,64)_17
+  - first:
+      213: -8416837351597288382
+    second: idle_watch(64,64)_18
+  - first:
+      213: 2004691883770427949
+    second: idle_watch(64,64)_19
+  - first:
+      213: 3371113248587726634
+    second: idle_watch(64,64)_20
+  - first:
+      213: -745359391019044889
+    second: idle_watch(64,64)_21
+  - first:
+      213: -8778272064998081758
+    second: idle_watch(64,64)_22
+  - first:
+      213: 5610666464096431824
+    second: idle_watch(64,64)_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_watch(64,64)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0c744a4296e37c0800000000000000
+      internalID: -4089715805509926733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c14ab1bca78a20800000000000000
+      internalID: 3064607950782973619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296b1051a7898300800000000000000
+      internalID: 254883980826601760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 207
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a651f7402fbfa90800000000000000
+      internalID: -7278958271588373931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 207
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a17a86ba63c68240800000000000000
+      internalID: 4793733716478947746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 207
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7436341e91a5e0800000000000000
+      internalID: -1900063758127694896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b708f8c04672a2940800000000000000
+      internalID: 5272069624451530875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc108ee53b6ca180800000000000000
+      internalID: -9102782867443802895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863f763c6954ee830800000000000000
+      internalID: 4102292824406881128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 143
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c564e77873160030800000000000000
+      internalID: 3460474771809265093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e579da5269f6f6980800000000000000
+      internalID: -8543487277430630562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 143
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73202db0b786b7f60800000000000000
+      internalID: 8033129238033990199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf2d4882beeeb40800000000000000
+      internalID: 5471569156561370583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391ccc85c47792610800000000000000
+      internalID: 1596938712670585235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e34ff0de881f9f0800000000000000
+      internalID: -436417137121935831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cdced7bf01eec40800000000000000
+      internalID: 5543386863675169916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988d4c1ee1dd48230800000000000000
+      internalID: 3640277523528734857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad641afb2164d930800000000000000
+      internalID: 4167062396731682215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244ddc5e503613b80800000000000000
+      internalID: -8416837351597288382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2abe30a5a812db10800000000000000
+      internalID: 2004691883770427949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3faf73a998ce20800000000000000
+      internalID: 3371113248587726634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efee4c3593f7a5f0800000000000000
+      internalID: -745359391019044889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 15
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bfd00f0105d2680800000000000000
+      internalID: -8778272064998081758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_watch(64,64)_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 15
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de2aa92c671ddd40800000000000000
+      internalID: 5610666464096431824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_watch(64,64)_0: -4089715805509926733
+      idle_watch(64,64)_1: 3064607950782973619
+      idle_watch(64,64)_10: -8543487277430630562
+      idle_watch(64,64)_11: 8033129238033990199
+      idle_watch(64,64)_12: 5471569156561370583
+      idle_watch(64,64)_13: 1596938712670585235
+      idle_watch(64,64)_14: -436417137121935831
+      idle_watch(64,64)_15: 5543386863675169916
+      idle_watch(64,64)_16: 3640277523528734857
+      idle_watch(64,64)_17: 4167062396731682215
+      idle_watch(64,64)_18: -8416837351597288382
+      idle_watch(64,64)_19: 2004691883770427949
+      idle_watch(64,64)_2: 254883980826601760
+      idle_watch(64,64)_20: 3371113248587726634
+      idle_watch(64,64)_21: -745359391019044889
+      idle_watch(64,64)_22: -8778272064998081758
+      idle_watch(64,64)_23: 5610666464096431824
+      idle_watch(64,64)_3: -7278958271588373931
+      idle_watch(64,64)_4: 4793733716478947746
+      idle_watch(64,64)_5: -1900063758127694896
+      idle_watch(64,64)_6: 5272069624451530875
+      idle_watch(64,64)_7: -9102782867443802895
+      idle_watch(64,64)_8: 4102292824406881128
+      idle_watch(64,64)_9: 3460474771809265093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

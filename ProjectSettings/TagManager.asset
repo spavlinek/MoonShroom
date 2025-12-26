@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - TurnAround
+  - FallingBox
+  - EndOfLevel
+  - Enemy
+  - Slime
+  - Boss
+  - BossBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraBarrier
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Ground
+  - NotForPlayer
+  - Slime
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3221339345
+    locked: 0
+  - name: Platform
+    uniqueID: 20010231
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3613785297
+    locked: 0
+  m_RenderingLayers:
+  - Default

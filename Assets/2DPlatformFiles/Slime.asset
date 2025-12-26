@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1381397242302438746, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: -7314431038255050661, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: 7582269903404874185, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: -6418873239251538312, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: 7195018325036658250, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: 4808585913319506918, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: 6926708811567437341, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: -8140660490490264779, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: 1494794477069749717, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: -4699582864206730087, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: 2080504935821724323, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  - {fileID: -4192719530506340063, guid: 863ffe39fba00444cb08fd49415f90b3, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
